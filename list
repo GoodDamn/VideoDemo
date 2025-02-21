@@ -14,9 +14,9 @@
         },
         {
             "id": 3,
-            "title": "Test",
-            "thumbnail": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream.jpg",
-            "subtitle": "Swift foundation"
+            "title": "Bullrun",
+            "thumbnail": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/WeAreGoingOnBullrun.jpg",
+            "subtitle": "Garage49"
         }
     ]
 }
