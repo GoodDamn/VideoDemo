@@ -11,6 +11,12 @@
           "title": "Elephant Dream",
           "thumbnail": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream.jpg",
           "subtitle": "By Blender Foundation"
+        },
+        {
+            "id": 3,
+            "title": "Test",
+            "thumbnail": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream.jpg",
+            "subtitle": "Swift foundation"
         }
     ]
 }
