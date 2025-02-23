@@ -17,6 +17,18 @@
             "title": "Bullrun",
             "thumbnail": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/WeAreGoingOnBullrun.jpg",
             "subtitle": "Garage49"
-        }
+        },
+	{
+	    "id": 4,
+	    "title": "Sintel",
+	    "thumbnail": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/Sintel.jpg",
+	    "subtitle": "By Blender Foundation"
+	},
+	{
+	    "id": 5,
+	    "title": "Subaru",
+	    "thumbnail": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/SubaruOutbackOnStreetAndDirt.jpg",
+	    "subtitle": "By Garage419"
+	}
     ]
 }
