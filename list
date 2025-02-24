@@ -4,31 +4,36 @@
            "id": 1,
            "title": "Big Buck Bunny",
            "thumbnail": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg",
-           "subtitle": "By Blender Foundation"
+           "subtitle": "By Blender Foundation",
+	   "duration": 594
         },
         {
           "id": 2,
           "title": "Elephant Dream",
           "thumbnail": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream.jpg",
-          "subtitle": "By Blender Foundation"
+          "subtitle": "By Blender Foundation",
+	  "duration": 653
         },
         {
             "id": 3,
             "title": "Bullrun",
             "thumbnail": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/WeAreGoingOnBullrun.jpg",
-            "subtitle": "Garage49"
+            "subtitle": "Garage49",
+	    "duration": 47
         },
 	{
 	    "id": 4,
 	    "title": "Sintel",
 	    "thumbnail": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/Sintel.jpg",
-	    "subtitle": "By Blender Foundation"
+	    "subtitle": "By Blender Foundation",
+	    "duration": 887
 	},
 	{
 	    "id": 5,
 	    "title": "Subaru",
 	    "thumbnail": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/SubaruOutbackOnStreetAndDirt.jpg",
-	    "subtitle": "By Garage419"
+	    "subtitle": "By Garage419",
+	    "duration": 594
 	}
     ]
 }
